@@ -1,0 +1,6 @@
+process 11 10
+process 13 12
+process 15 14
+command: cat end command 
+main.cpp
+command: tr A-Z a-z end command 
